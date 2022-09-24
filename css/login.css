@@ -23,7 +23,7 @@
   }
 
   .background-image{
- background-image: url(iamges/bengali-foods-caption.jpg);
+ background-image:linear-gradient(rgba(0, 0, 0, 0.424), rgba(0, 0, 0, 0.339)), url(..iamges/bengali-foods-caption.jpg);
  background-size: cover;
  background-repeat: no-repeat;
  height: 100vh;
@@ -51,7 +51,7 @@ line-height: 133px;
 color: #FFFFFF;
 }
 .logo{
-    background-image: url(iamges/buplogo.png);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.424), rgba(0, 0, 0, 0.339)), url(..images/buplogo.png);
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
